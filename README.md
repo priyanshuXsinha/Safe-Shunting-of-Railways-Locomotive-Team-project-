@@ -130,7 +130,7 @@ railway-shunting-safety/
 
 ## 📽️ Demo
 
-![Demo Video](images/dp1.gif)
+![Demo Video](dp1.gif)
 
 ---
 
