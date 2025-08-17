@@ -92,7 +92,7 @@ railway-shunting-safety/
 
 ## 🖼️ Block Diagram
 
-![Block Diagram](images/dp.png)
+![Block Diagram](dp.png)
 
 ---
 
